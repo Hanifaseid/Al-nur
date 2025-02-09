@@ -8,13 +8,17 @@ Welcome to the Al-Nur Import and Export PLC GitHub repository! This project is a
 ✅ Product & Services Showcase – Organized display of import/export goods
 ✅ Smooth Animations – jQuery-powered transitions and effects
 ✅ Contact Form – Easy-to-use form for business inquiries
-✅ Image Slider – Highlighting key products and services
+
 
 🛠️ Technologies Used
 🔹 HTML5 – Structured and semantic content
+
 🔹 CSS3 – Styling and layout enhancements
+
 🔹 Bootstrap – Responsive grid system and components
+
 🔹 JavaScript – Dynamic content and interactivity
+
 🔹 jQuery – Smooth animations and DOM manipulation
 
 📌 Feel free to contribute, report issues, or suggest improvements!
